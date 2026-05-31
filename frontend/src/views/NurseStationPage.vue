@@ -161,7 +161,7 @@ async function loadAll() {
   try {
     const [admissionPage, bedPage] = await Promise.all([
       admissionApi.list({ page: 1, pageSize: 100, status: 'IN_HOSPITAL' }),
-      bedApi.list({ page: 1, pageSize: 200 })
+      bedApi.list({ page: 1, pageSize: 100 })
     ])
     admissions.value = recordsOf(admissionPage)
     beds.value = recordsOf(bedPage)
@@ -176,7 +176,7 @@ async function loadAll() {
 async function loadOrders() {
   orderLoading.value = true
   try {
-    const page = await orderApi.list({ page: 1, pageSize: 200 })
+    const page = await orderApi.list({ page: 1, pageSize: 100 })
     orders.value = recordsOf(page)
   } finally {
     orderLoading.value = false

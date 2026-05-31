@@ -249,7 +249,7 @@ async function loadAll() {
   try {
     const [admissionPage, bedPage] = await Promise.all([
       admissionApi.list({ page: 1, pageSize: 100, status: 'IN_HOSPITAL' }),
-      bedApi.list({ page: 1, pageSize: 200 })
+      bedApi.list({ page: 1, pageSize: 100 })
     ])
     admissions.value = recordsOf(admissionPage)
     beds.value = recordsOf(bedPage)
@@ -273,8 +273,8 @@ async function loadSelectedData() {
   try {
     const id = selectedAdmission.value.id
     const [feePage, depositPage, dischargePage, accountSummary] = await Promise.all([
-      feeApi.list({ page: 1, pageSize: 200, admissionId: id }),
-      depositApi.list({ page: 1, pageSize: 200, admissionId: id }),
+      feeApi.list({ page: 1, pageSize: 100, admissionId: id }),
+      depositApi.list({ page: 1, pageSize: 100, admissionId: id }),
       dischargeApi.list({ page: 1, pageSize: 50, admissionId: id }),
       accountApi.summary(id).catch(() => null)
     ])

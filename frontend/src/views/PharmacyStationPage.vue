@@ -171,7 +171,7 @@ async function loadDrugs() {
 async function loadOrders() {
   orderLoading.value = true
   try {
-    const page = await orderApi.list({ page: 1, pageSize: 200, orderCategory: 'DRUG', status: 'CHECKED' })
+    const page = await orderApi.list({ page: 1, pageSize: 100, orderCategory: 'DRUG', status: 'CHECKED' })
     orders.value = recordsOf(page)
   } finally {
     orderLoading.value = false
@@ -181,7 +181,7 @@ async function loadOrders() {
 async function loadDispenses() {
   dispenseLoading.value = true
   try {
-    const page = await dispenseApi.list({ page: 1, pageSize: 200 })
+    const page = await dispenseApi.list({ page: 1, pageSize: 100 })
     dispenses.value = recordsOf(page)
   } finally {
     dispenseLoading.value = false
