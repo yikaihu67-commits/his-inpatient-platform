@@ -1,0 +1,136 @@
+Port 5173 is occupied by PID 58816 (node). Stopping it before starting Vite...
+Starting frontend at http://localhost:5173 ...
+
+> his-inpatient-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v6.4.2[39m  [2mready in [0m[1m293[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.110.225:[1m5173[22m/[39m
+[2m13:22:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DrugPage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OperationLogPage.vue[22m
+[2m13:24:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m13:25:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m13:25:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue, /src/views/MainLayout.vue?vue&type=style&index=0&scoped=fa0e4484&lang.css[22m
+[2m13:25:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/OrderPage.vue, /src/views/AdmissionPage.vue, /src/views/FeePage.vue, /src/views/DispensePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue, /src/views/DrugPage.vue, /src/views/ExamLabPage.vue, /src/views/MedicalRecordPage.vue, /src/views/DictPage.vue, /src/views/StaffPage.vue, /src/views/OperationLogPage.vue, /src/views/DepartmentPage.vue[22m
+[2m13:40:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m13:42:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m14:01:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/AdmissionPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/AdmissionPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DrugPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DepositPage.vue[22m
+[2m14:02:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m14:02:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m
+[2m16:38:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/OrderPage.vue, /src/views/AdmissionPage.vue, /src/views/FeePage.vue, /src/views/DispensePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue, /src/views/DrugPage.vue, /src/views/ExamLabPage.vue, /src/views/MedicalRecordPage.vue, /src/views/DictPage.vue, /src/views/StaffPage.vue, /src/views/OperationLogPage.vue, /src/views/DepartmentPage.vue[22m
+[2m16:38:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Login.vue?vue&type=style&index=0&scoped=08aaad4e&lang.css[22m
+[2m16:40:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m16:40:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m
+[2m16:41:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/AdmissionPage.vue[22m
+[2m16:41:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m16:41:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m16:41:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DrugPage.vue[22m
+[2m16:41:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/NursingExecutionPage.vue[22m
+[2m16:41:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m16:41:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m16:41:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DispensePage.vue[22m
+[2m16:42:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m16:42:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DepositPage.vue[22m
+[2m16:42:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/ExamLabPage.vue[22m
+[2m16:42:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MedicalRecordPage.vue[22m
+[2m16:43:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/StaffPage.vue[22m
+[2m16:43:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DepartmentPage.vue[22m
+[2m16:43:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DictPage.vue[22m
+[2m16:43:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OperationLogPage.vue[22m
+[2m16:52:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/OrderPage.vue, /src/views/AdmissionPage.vue, /src/views/FeePage.vue, /src/views/DispensePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue, /src/views/DrugPage.vue, /src/views/ExamLabPage.vue, /src/views/MedicalRecordPage.vue, /src/views/DictPage.vue, /src/views/StaffPage.vue, /src/views/OperationLogPage.vue, /src/views/DepartmentPage.vue[22m
+[2m16:52:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m16:53:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m16:53:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/AdmissionPage.vue[22m
+[2m16:54:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m16:54:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m16:54:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m16:54:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m16:54:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/NursingExecutionPage.vue[22m
+[2m16:56:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m16:56:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m17:02:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m17:03:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/AdmissionPage.vue[22m
+[2m17:03:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m17:03:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m17:04:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/NursingExecutionPage.vue[22m
+[2m17:04:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m17:04:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m17:08:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue, /src/components/ManagementPage.vue?vue&type=style&index=0&scoped=45497ead&lang.css[22m
+[2m17:08:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/OrderPage.vue, /src/views/AdmissionPage.vue, /src/views/FeePage.vue, /src/views/DispensePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue, /src/views/DrugPage.vue, /src/views/ExamLabPage.vue, /src/views/MedicalRecordPage.vue, /src/views/DictPage.vue, /src/views/StaffPage.vue, /src/views/OperationLogPage.vue, /src/views/DepartmentPage.vue[22m
+[2m17:09:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m17:09:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/AdmissionPage.vue[22m
+[2m17:09:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/BedPage.vue[22m
+[2m17:10:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m17:10:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m17:10:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m17:10:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DepositPage.vue[22m
+[2m17:11:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m17:11:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m17:11:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m17:11:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/FeePage.vue[22m
+[2m17:11:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DischargePage.vue[22m
+[2m17:16:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m17:17:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m
+[2m17:17:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Login.vue[22m
+[2m17:17:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue, /src/views/MainLayout.vue?vue&type=style&index=0&scoped=fa0e4484&lang.css[22m
+[2m17:19:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue[22m
+[2m17:27:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m17:27:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m17:28:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m17:35:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DrugPage.vue[22m
+[2m17:36:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m17:36:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m17:44:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m17:44:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m18:10:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m18:11:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m18:11:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m18:25:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MedicalRecordPage.vue[22m
+[2m18:25:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/AdmissionPage.vue, /src/views/OrderPage.vue, /src/views/FeePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue[22m
+[2m18:25:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m18:25:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m18:26:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MedicalRecordPage.vue[22m
+[2m19:00:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m19:41:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue, /src/views/PatientPage.vue, /src/views/PharmacyStationPage.vue[22m
+[2m19:42:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m19:42:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m19:43:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/OrderPage.vue[22m
+[2m19:43:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PatientPage.vue, /src/views/BedPage.vue, /src/views/AdmissionPage.vue, /src/views/OrderPage.vue, /src/views/FeePage.vue, /src/views/DepositPage.vue, /src/views/DischargePage.vue, /src/views/NursingExecutionPage.vue[22m
+[2m19:43:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m
+[2m20:06:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/ExamLabPage.vue[22m
+[2m20:06:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/ExamLabPage.vue[22m
+[2m20:19:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue, /src/views/MainLayout.vue?vue&type=style&index=0&scoped=fa0e4484&lang.css[22m
+[2m20:19:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/MainLayout.vue[22m
+[2m20:20:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Login.vue[22m
+[2m20:20:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m20:20:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:21:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:21:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:21:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:21:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:21:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:22:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:22:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:37:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m20:46:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/permissions.js[22m
+[2m20:46:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/permissions.js[22m
+[2m20:46:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m20:46:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:46:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ManagementPage.vue[22m
+[2m20:49:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m21:46:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m

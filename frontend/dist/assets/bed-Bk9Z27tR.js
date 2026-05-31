@@ -1,0 +1,1 @@
+import{c as e,s as a}from"./request-C-Czj0YB.js";const i=e("/admissions");i.admit=s=>a.post(`/admissions/${s}/admit`);i.cancel=s=>a.post(`/admissions/${s}/cancel`);const o=e("/beds");o.assign=(s,t)=>a.post(`/beds/${s}/assign`,t);o.release=s=>a.post(`/beds/${s}/release`);export{i as a,o as b};

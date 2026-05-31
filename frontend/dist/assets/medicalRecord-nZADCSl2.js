@@ -1,0 +1,1 @@
+import{c as a,s as r}from"./request-C-Czj0YB.js";const s=a("/medical-records");s.submit=(e,c)=>r.post(`/medical-records/${e}/submit`,c||{});s.review=(e,c)=>r.post(`/medical-records/${e}/review`,c||{});s.archive=(e,c)=>r.post(`/medical-records/${e}/archive`,c||{});s.cancel=(e,c)=>r.post(`/medical-records/${e}/cancel`,c||{});export{s as a};

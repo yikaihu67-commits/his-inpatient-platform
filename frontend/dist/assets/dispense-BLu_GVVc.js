@@ -1,0 +1,1 @@
+import{c as r,s as a}from"./request-C-Czj0YB.js";const p=r("/pharmacy/dispenses");p.dispense=(s,e)=>a.post(`/pharmacy/dispenses/${s}/dispense`,e||{});p.returnDrug=(s,e)=>a.post(`/pharmacy/dispenses/${s}/return`,e||{});p.cancel=(s,e)=>a.post(`/pharmacy/dispenses/${s}/cancel`,e||{});export{p as a};

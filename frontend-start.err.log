@@ -1,0 +1,7 @@
+Frontend startup command failed with exit code -1.
+所在位置 F:\his-inpatient-platform\start-frontend.ps1:57 字符: 3
++   throw ("Frontend startup command failed with exit code {0}." -f $LA ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (Frontend startu...h exit code -1.:String) [], RuntimeException
+    + FullyQualifiedErrorId : Frontend startup command failed with exit code -1.
+ 

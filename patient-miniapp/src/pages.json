@@ -1,0 +1,20 @@
+{
+  "pages": [
+    { "path": "pages/login/login", "style": { "navigationBarTitleText": "患者绑定" } },
+    { "path": "pages/home/home", "style": { "navigationBarTitleText": "患者服务" } },
+    { "path": "pages/bill/bill", "style": { "navigationBarTitleText": "我的账单" } },
+    { "path": "pages/bill-detail/bill-detail", "style": { "navigationBarTitleText": "费用明细" } },
+    { "path": "pages/appointments/appointments", "style": { "navigationBarTitleText": "预约服务" } },
+    { "path": "pages/appointment-new/appointment-new", "style": { "navigationBarTitleText": "新增预约" } },
+    { "path": "pages/reports/reports", "style": { "navigationBarTitleText": "检查检验报告" } },
+    { "path": "pages/surgery/surgery", "style": { "navigationBarTitleText": "手术安排" } },
+    { "path": "pages/discharge/discharge", "style": { "navigationBarTitleText": "出院服务" } },
+    { "path": "pages/profile/profile", "style": { "navigationBarTitleText": "个人中心" } }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "患者移动服务",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f3f6fb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "患者移动服务",
+  "appid": "__UNI__PATIENT_DEMO",
+  "description": "住院 HIS 患者微信小程序演示端",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "router": {
+      "mode": "hash"
+    },
+    "devServer": {
+      "proxy": {
+        "/api": {
+          "target": "http://localhost:8080",
+          "changeOrigin": true
+        }
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": "touristappid",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  }
+}

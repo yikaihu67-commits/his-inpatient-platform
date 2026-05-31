@@ -1,0 +1,1 @@
+import{c as i,s as n}from"./request-C-Czj0YB.js";const c=i("/nursing/executions");c.execute=(e,s)=>n.post(`/nursing/executions/${e}/execute`,s||{});c.fail=(e,s)=>n.post(`/nursing/executions/${e}/fail`,s||{});c.cancel=(e,s)=>n.post(`/nursing/executions/${e}/cancel`,s||{});export{c as a};

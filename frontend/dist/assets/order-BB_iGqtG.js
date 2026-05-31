@@ -1,0 +1,1 @@
+import{c as t,s as e}from"./request-C-Czj0YB.js";const r=t("/orders");r.submit=s=>e.post(`/orders/${s}/submit`);r.check=(s,o)=>e.post(`/orders/${s}/check`,o||{});r.execute=(s,o)=>e.post(`/orders/${s}/execute`,o||{});r.bill=(s,o)=>e.post(`/orders/${s}/bill`,o||{});r.stop=s=>e.post(`/orders/${s}/stop`);r.cancel=s=>e.post(`/orders/${s}/cancel`);export{r as a};
